@@ -210,7 +210,7 @@ Games & Toys: lowest revenue + lowest margin + lowest AOV = weakest category. Mu
 |------|-------------|
 | `Retails_Dashboard.pbix` | Power BI Desktop file — full interactive dashboard |
 | `Retails_Dashboard.md` | Technical documentation: dataset, model, DAX pack |
-| `Retails_Dashboard_Portfolio.md` | This file — business case study |
+| `README.md` | This file — business case study |
 
 ---
 
